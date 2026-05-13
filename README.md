@@ -11,6 +11,13 @@ I'm a Front-End Development student currently in my second year, after studying 
 * Vite
 * Git & GitHub
 * Figma
+* TypeScript
+* Tailwind
+* Node.js
+* Vitest
+* git
+* GitHub Actions
+
 
 ## Currently learning
 
