@@ -1,11 +1,6 @@
-# Introduction
-Front-End Development student with a background in UX Design.
-
 # Hi, I'm Anthony 👋
 
 I'm a Front-End Development student currently in my second year, after studying and completing UX Design.
-
-I enjoy combining user experience, accessibility, and modern front-end development to create intuitive and responsive interfaces.
 
 ## Technologies & Tools
 
